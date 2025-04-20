@@ -1,0 +1,4 @@
+Python is a high-level programming language.
+Docker allows applications to run in containers.
+Cloud computing provides scalable computing resources.
+Machine learning enables systems to learn from data.
